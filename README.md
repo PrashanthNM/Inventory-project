@@ -1,1 +1,1 @@
-# Inventoryproject
+# InventoryProject
